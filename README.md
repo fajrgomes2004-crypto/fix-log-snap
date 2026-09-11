@@ -1,14 +1,22 @@
-# Welcome to your Lovable project
+# Maintenance Hub
+
+Crie um sistema simples e direto de registro de manutenções realizadas. A aplicação deve ter:
+- Formulário para registrar manutenção: título, equipamento ou máquina, data, descrição detalhada do que foi feito e upload de fotos (com pré-visualização).
+- Feed/histórico das manutenções em cards elegantes com exibição das fotos (com opção de clicar para ver em tela cheia/lightbox), detalhes e data.
+- Busca rápida por equipamento ou palavra-chave na descrição.
+- Interface limpa, moderna e 100% responsiva (otimizada para uso no celular na hora da manutenção).
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://fix-log-snap.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a611c448-1102-4f70-913b-d3f7cadab415).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +28,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
